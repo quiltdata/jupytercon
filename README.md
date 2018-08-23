@@ -1,7 +1,7 @@
 # TODO
-- [ ] Local image resources
-- [ ] Make ivv work?
-- [ ] Make helium cells work
+- [x] Local image resources
+- [x] Make ivv work?
+- [x] Make helium cells work
 
 # Slide show
 
