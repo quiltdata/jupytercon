@@ -1,6 +1,6 @@
 # TODO
 - [x] Local image resources
-- [x] Make ivv work?
+- [x] Make ivvv work?
 - [x] Make helium cells work
 - [ ] Correct import mistake mid-preso
 
