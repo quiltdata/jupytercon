@@ -1,3 +1,6 @@
+# Slides
+[Reproducible data for notebooks](https://quiltdata.github.io/jupytercon/#/)
+
 # TODO
 - [x] Local image resources
 - [x] Make ivvv work?
