@@ -1,3 +1,5 @@
+# [JupyterCon talk video](https://www.youtube.com/watch?v=4AS_36-m2X4)
+
 # Slides
 [Reproducible data for notebooks](https://quiltdata.github.io/jupytercon/#/)
 
